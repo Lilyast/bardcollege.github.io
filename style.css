@@ -8,12 +8,12 @@ body {
 h1{
     margin-top:0px;
     margin-bottom: 10px;
-    border-bottom: 1px solid #003333;
+    border-bottom: 1px solid  #006666;
 }
 
 h3{
     margin:0px;
-    color: #408000;
+    color:  #006666;
 }
 
 h2{
@@ -27,7 +27,7 @@ h2{
 }
 
 a {
-    color: #003333;
+    color:  #006666;
     text-decoration: none;
 }
 
