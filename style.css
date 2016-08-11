@@ -1,7 +1,7 @@
 body {
     background-color: #161616;
     color: #D7CEC7;
-    font-size: 150%;
+    font-size: 175%;
     line-height: 1.4;
 }
 
@@ -18,6 +18,8 @@ h3{
 
 h2{
     margin:0px;
+    color: #CED7A7;    
+    
 }
 
 #main {
