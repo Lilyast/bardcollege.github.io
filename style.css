@@ -3,7 +3,7 @@ body {
     color: #1a0d00;
     font-size: 160%;
     line-height: 1.4;
-    font-face: "verdana";
+    <FONT FACE="arial">arial font</FONT>
 }
 
 h1{
